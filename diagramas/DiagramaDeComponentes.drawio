@@ -320,9 +320,9 @@
         <mxCell id="oYlXpJVkNZ7Khja5sfW1-88" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="410" width="10" height="10" as="geometry" />
         </mxCell>
-        <UserObject label="(100 Ll / min&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;)&lt;/span&gt;" placeholders="1" name="Variable" id="oYlXpJVkNZ7Khja5sfW1-90">
+        <UserObject label="(100 Ll / min&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;( 500 Ll / min )&lt;/span&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="oYlXpJVkNZ7Khja5sfW1-90">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="34" y="104" width="80" height="20" as="geometry" />
+            <mxGeometry x="34" y="104" width="80" height="36" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="RecibirLlamada" placeholders="1" name="Variable" id="oYlXpJVkNZ7Khja5sfW1-91">
@@ -431,7 +431,7 @@
         </mxCell>
         <UserObject label="DetalleFactura" placeholders="1" name="Variable" id="0yX0eXvTFX88OV4LpYDG-9">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;" vertex="1" parent="1">
-            <mxGeometry x="415" y="340" width="110" height="20" as="geometry" />
+            <mxGeometry x="430" y="323" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="0yX0eXvTFX88OV4LpYDG-10" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="0yX0eXvTFX88OV4LpYDG-12" parent="1" source="0yX0eXvTFX88OV4LpYDG-1">
@@ -486,6 +486,21 @@
         <UserObject label="Procesarpago" placeholders="1" name="Variable" id="0yX0eXvTFX88OV4LpYDG-21">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;" vertex="1" parent="1">
             <mxGeometry x="720" y="313" width="127" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(&amp;lt; 2seg)" placeholders="1" name="Variable" id="0yX0eXvTFX88OV4LpYDG-22">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="606.5" y="380" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(&amp;lt; 0.5seg)" placeholders="1" name="Variable" id="0yX0eXvTFX88OV4LpYDG-23">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="382" y="202" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(&amp;lt; 1.5seg)" placeholders="1" name="Variable" id="0yX0eXvTFX88OV4LpYDG-25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry y="323" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

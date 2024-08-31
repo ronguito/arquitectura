@@ -640,6 +640,26 @@
             <mxGeometry x="-112" y="210" width="142" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Usuario" placeholders="1" name="Variable" id="QKdsGa7gmg4QLBwzVYQP-184">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;" vertex="1" parent="1">
+            <mxGeometry x="-784" y="166" width="84" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Usuario" placeholders="1" name="Variable" id="QKdsGa7gmg4QLBwzVYQP-185">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;" vertex="1" parent="1">
+            <mxGeometry x="-784" y="250" width="84" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Usuario" placeholders="1" name="Variable" id="QKdsGa7gmg4QLBwzVYQP-186">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;" vertex="1" parent="1">
+            <mxGeometry x="-784" y="334" width="84" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Usuario" placeholders="1" name="Variable" id="QKdsGa7gmg4QLBwzVYQP-187">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;" vertex="1" parent="1">
+            <mxGeometry x="-780" y="420" width="84" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
